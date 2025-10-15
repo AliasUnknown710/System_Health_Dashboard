@@ -1,0 +1,16 @@
+body {
+  font-family: monospace;
+  background-color: #111;
+  color: #0f0;
+  padding: 2em;
+}
+
+h1 {
+  color: #0ff;
+}
+
+pre {
+  background-color: #222;
+  padding: 1em;
+  border-radius: 4px;
+}
