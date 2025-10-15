@@ -33,4 +33,6 @@ open public/index.html
 
 ## 🧠 Notes
 • 	Extend with service status, network latency, or alerting.
+
+
 • 	Ideal for local monitoring, Raspberry Pi dashboards, or offline status pages.
